@@ -1,2 +1,2 @@
 # agile-final-project
-Final Project for IBM DevOps and Software Engineering Professional Certificate
+Final Project for  Introduction to Agile Development and Scrum course
